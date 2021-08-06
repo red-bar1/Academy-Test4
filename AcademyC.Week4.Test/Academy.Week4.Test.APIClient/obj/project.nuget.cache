@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRNZOXAlnfnvi53Bt5E8JRZZlWoAmiyaXPJO/IUdn86p2zZ6YjUnR2bh7r5coFh4EDzufoZXlUXRpQTM/od01A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giulia.tuttobene\\Desktop\\Academy\\Academy 4\\AcademyC.Week4.Test\\Academy.Week4.Test.APIClient\\Academy.Week4.Test.APIClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giulia.tuttobene\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

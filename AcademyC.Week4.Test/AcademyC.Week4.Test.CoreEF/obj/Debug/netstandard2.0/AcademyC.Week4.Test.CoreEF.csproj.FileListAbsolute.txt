@@ -1,0 +1,12 @@
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\bin\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.deps.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\bin\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\bin\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\bin\Debug\netstandard2.0\AcademyC.Week4.Test.Core.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\bin\Debug\netstandard2.0\AcademyC.Week4.Test.Core.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\obj\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.csprojAssemblyReference.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\obj\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.AssemblyInfoInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\obj\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.AssemblyInfo.cs
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\obj\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.csproj.CoreCompileInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\obj\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.csproj.CopyComplete
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\obj\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\AcademyC.Week4.Test.CoreEF\obj\Debug\netstandard2.0\AcademyC.Week4.Test.CoreEF.pdb

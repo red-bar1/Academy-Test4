@@ -1,0 +1,15 @@
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\bin\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.exe
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\bin\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.deps.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\bin\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.runtimeconfig.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\bin\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.runtimeconfig.dev.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\bin\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\bin\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\obj\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.csprojAssemblyReference.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\obj\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.AssemblyInfoInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\obj\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.AssemblyInfo.cs
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\obj\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.csproj.CoreCompileInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\obj\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.csproj.CopyComplete
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\obj\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\obj\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 4\AcademyC.Week4.Test\Academy.Week4.Test.APIClient\obj\Debug\netcoreapp3.1\Academy.Week4.Test.APIClient.genruntimeconfig.cache
